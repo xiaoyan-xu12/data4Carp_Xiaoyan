@@ -1,10 +1,13 @@
 # data4Carp_Xiaoyan
 tips for organizing research
+
 # name
--Xiaoyan Xu
+- Wenjie Zhu
+
 # what kind of scientist?
--immune response on ocular surface
+- Ophthalmoloy Ph.D. Students, MD
+
 # 3 experiments done recently?
--TCR Sequencing
--inoculation eye with commmensal
--FACS
+- Flow Cytometry
+- qPCR
+- ELISA
